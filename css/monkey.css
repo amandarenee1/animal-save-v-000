@@ -11,5 +11,5 @@ html {
 /* Write your solution here */
 
 @media only and screen (min-width: 406px) and (max-width: 1090px) {
-  transform: translateY(-600px);
+  transform: scale(0.5) translate(-100%, -100%);
 }
