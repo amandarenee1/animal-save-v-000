@@ -11,5 +11,8 @@ html {
 /* Write your solution here */
 
 @media only and screen (min-width: 406px) and (max-width: 1090px) {
-  transform: translate (120px, 50%);
+
+  #monkey {
+    transform: translateY(-600px);
+  }
 }
