@@ -13,6 +13,6 @@ html {
 @media only screen and (min-width: 406px) and (max-width: 1090px) {
 
   #monkey {
-    transform: scale(0.5) translate(-100%, -100%);
+    transform: translateY(-600px);
   }
 }
